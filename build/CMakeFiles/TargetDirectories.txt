@@ -1,4 +1,0 @@
-/home/lms/바탕화면/goood_talk/build/CMakeFiles/goodtalk_server.dir
-/home/lms/바탕화면/goood_talk/build/CMakeFiles/goodtalk_client.dir
-/home/lms/바탕화면/goood_talk/build/CMakeFiles/edit_cache.dir
-/home/lms/바탕화면/goood_talk/build/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/goodtalk_client.dir/client_project.c.o CMakeFiles/goodtalk_client.dir/cJSON.c.o -o goodtalk_client 
